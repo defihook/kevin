@@ -4,7 +4,7 @@ const Footer: FC = () => {
   return (
     <footer className="py-4 bg-black">
       <div className="text-sm text-center c-container text-white">
-        All rights reserved © DefiHook 2024
+        All rights reserved © DefiHook 2025
       </div>
     </footer>
   );
